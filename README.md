@@ -5,8 +5,3 @@ Mas información sobre la práctica puede ser encontrada [aquí](https://www.axx
 ## Tableau
 ![tableau](/img/tableau.png)
 
-## Jupyter
-![jupyter](/img/jupyter.png)
-
-## Endpoints
-![endpoints](/img/endpoints.png)
